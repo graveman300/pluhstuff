@@ -40,7 +40,7 @@
 
   "World Events Enabled": {"MeatyMeteor": true, "ABA": false},
 
-  "BloodRestrictedRegions": ["KR"],
+  "BloodRestrictedRegions": ["KR", "VN"],
 
   "Cursed Child Boss Moves": [242509995,  166263406, 1242679803, 141123572],
 
